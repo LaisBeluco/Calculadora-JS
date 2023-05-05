@@ -71,4 +71,3 @@ function calcular() {
   }
 }
 
-// Mudou quase nada...
